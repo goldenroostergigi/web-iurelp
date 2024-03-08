@@ -9,7 +9,7 @@
         </div>
         <!-- Div for the modal's content, in a separate row -->
         <div class="modal-body">
-            <span>hello world</span>
+            <span>info@iurexa.com</span>
         </div>
         </div>
     </div>

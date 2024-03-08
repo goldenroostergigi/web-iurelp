@@ -6,7 +6,7 @@
       </div>
       <nav v-show="!isMobile || menuOpen">
         <div class="menu-options">
-          <a href="#">CoAnalyst</a>
+          <a href="https://www.coanalyst.org">CoAnalyst</a>
           <a href="javascript:void(0)" @click="openModal">Contact</a> 
         </div>
       </nav>
