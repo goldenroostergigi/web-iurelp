@@ -21,6 +21,7 @@ html, body {
   padding: 0;
   height: 100%;
   overflow: hidden; /* Prevents scrolling outside the app container */
+  background-color: #111518;
 }
 #app {
   height: 100%;
